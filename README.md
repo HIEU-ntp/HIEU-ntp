@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d1117,50:3f5efb,100:fc466b&text=HIEU-NTP&section=header&textBg=false&fontColor=fff&fontSize=70&animation=fadeIn" width="100%"/>
 </div>
 
+<div align="center">
+
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                            ║
@@ -15,6 +17,8 @@
 ║   "Building AI that works · Making games that scare"       ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -129,33 +133,6 @@ current_mission: "Making AI production-ready, one pipeline at a time"
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff"/>
   </details>
-</div>
-
----
-
-## 📊 **By the Numbers**
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HIEU-ntp&show_icons=true&count_private=true&hide_border=true&title_color=3f5efb&icon_color=fc466b&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HIEU-ntp&hide_border=true&theme=radical" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIEU-ntp&layout=compact&hide_border=true&title_color=3f5efb&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</div>
-
----
-
-## 🐍 **Contribution Snake**
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HIEU-ntp/HIEU-ntp/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/HIEU-ntp/HIEU-ntp/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/HIEU-ntp/HIEU-ntp/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 ---
