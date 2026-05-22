@@ -38,7 +38,6 @@ focus_areas:
   - RAG & Agent Systems      # chatbots, ReAct agents, vector stores
   - AI Platform Infra        # cloud, terraform, docker, k8s
   - Game Dev (Unity)         # C#, 3D horror, 2D platformers
-  - Full-Stack Web           # JS/TS, real-time, APIs
 current_mission: "Making AI production-ready, one pipeline at a time"
 ```
 
