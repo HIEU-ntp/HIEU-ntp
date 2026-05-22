@@ -137,10 +137,55 @@ current_mission: "Making AI production-ready, one pipeline at a time"
 
 ---
 
-## 🏆 **Trophies**
+## 🎮 **Achievements Unlocked**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HIEU-ntp&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/RAG-🦾-8B5CF6?style=for-the-badge&logo=readthedocs&logoColor=fff" width="140"/><br/>
+        <sub><b>RAG Master</b></sub><br/>
+        <sub>📚 Literature Review</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/AGENT-🤖-00A67E?style=for-the-badge&logo=graphql&logoColor=fff" width="140"/><br/>
+        <sub><b>Agent Builder</b></sub><br/>
+        <sub>⚡ ReAct & Chatbots</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/VECTOR-🧩-6366F1?style=for-the-badge&logo=databricks&logoColor=fff" width="140"/><br/>
+        <sub><b>Vector Sorcerer</b></sub><br/>
+        <sub>🔮 Embeddings & Stores</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/DOCKER-🐳-2496ED?style=for-the-badge&logo=docker&logoColor=fff" width="140"/><br/>
+        <sub><b>Container King</b></sub><br/>
+        <sub>📦 Compose & Deploy</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/UNITY-🎮-FFF?style=for-the-badge&logo=unity&logoColor=000" width="140"/><br/>
+        <sub><b>Game Dev</b></sub><br/>
+        <sub>👻 Death Maze</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/C%23-⚔️-239120?style=for-the-badge&logo=csharp&logoColor=fff" width="140"/><br/>
+        <sub><b>C# Warrior</b></sub><br/>
+        <sub>🕹️ Unity Scripts</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/MLOPS-🚀-FF6B6B?style=for-the-badge&logo=mlflow&logoColor=fff" width="140"/><br/>
+        <sub><b>Pipeline Pilot</b></sub><br/>
+        <sub>⚙️ CI/CD & Observability</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/TERRAFORM-🌍-7B42BC?style=for-the-badge&logo=terraform&logoColor=fff" width="140"/><br/>
+        <sub><b>Cloud Architect</b></sub><br/>
+        <sub>☁️ Infra as Code</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
