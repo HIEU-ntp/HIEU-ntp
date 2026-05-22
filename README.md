@@ -22,31 +22,9 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=600&color=3F5EFB&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Game+Dev+%7C+Platform+Builder;Python+%E2%89%A0+snake+%28but+I+make+both%29;RAG+chatbots%2C+ReAct+agents%2C+vector+stores;Also+built+a+3D+horror+game+%F0%9F%91%BB;🤖+AI+%E2%9A%94%EF%B8%8F+Game+%E2%80%94+both+sides+of+my+brain;From+Vietnam+%F0%9F%87%BB%F0%9F%87%B3+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=600&color=3F5EFB&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Game+Dev+%7C+Platform+Builder;Python+%E2%89%A0+snake+%28but+I+make+both%29;RAG+chatbots%2C+ReAct+agents%2C+vector+stores;Also+built+a+3D+horror+game+%F0%9F%91%BB;From+Vietnam+%F0%9F%87%BB%F0%9F%87%B3+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
-
-<div align="center">
-
-```text
-╔═══════════════════════════════════════════════════════╗
-║                 SELECT YOUR FIGHTER                   ║
-╠═══════════════════════════════════════════════════════╣
-║                                                       ║
-║       🤖 AI ENGINEER          🎮 GAME DEV             ║
-║    ┌─────────────────┐    ┌─────────────────┐         ║
-║    │  ████████████▒▒  │    │  ████████████▒  │         ║
-║    │  ATTACK  ■■■■■■  │    │  ATTACK  ■■■■   │         ║
-║    │  DEFENSE ■■■■    │    │  DEFENSE ■■■■■  │         ║
-║    │  SPEED   ■■■■■   │    │  SPEED   ■■■■■■ │         ║
-║    └─────────────────┘    └─────────────────┘         ║
-║                                                       ║
-╠═══════════════════════════════════════════════════════╣
-║         ⚡  ROUND 1 · FIGHT!  ⚡                       ║
-╚═══════════════════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
@@ -60,6 +38,7 @@ focus_areas:
   - RAG & Agent Systems      # chatbots, ReAct agents, vector stores
   - AI Platform Infra        # cloud, terraform, docker, k8s
   - Game Dev (Unity)         # C#, 3D horror, 2D platformers
+  - Full-Stack Web           # JS/TS, real-time, APIs
 current_mission: "Making AI production-ready, one pipeline at a time"
 ```
 
