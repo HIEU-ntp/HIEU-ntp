@@ -176,5 +176,5 @@ current_mission: "Making AI production-ready, one pipeline at a time"
 </div>
 
 <div align="center">
-  <sub>⚡ From Vietnam with code · AI · and a Unity build that might crash your GPU ⚡</sub>
+  <sub>⚡ From Vietnam with code · AI⚡</sub>
 </div>
