@@ -135,13 +135,6 @@ current_mission: "Making AI production-ready, one pipeline at a time"
   </details>
 </div>
 
----
-
-## 🏆 **Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HIEU-ntp&theme=flat&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-</div>
 
 ---
 
